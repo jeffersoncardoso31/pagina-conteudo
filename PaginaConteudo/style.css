@@ -1,0 +1,77 @@
+/* cor border #fd8a24 */
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.top-bar{
+    background-color: #333;
+    text-align: center;
+    border-bottom: 5px solid #fd8a24;
+    color: white;
+    padding: 8px;
+    font-size: 27px;
+}
+.container{
+    max-width: 1080px;
+    margin: auto;
+}
+#titulo{
+    font-weight: bold;
+    font-size: 56px;
+    color: #111;
+    line-height: 65px;
+}
+#subTitulo{
+    color: #555;
+    font-weight: 500;
+}
+#autor{
+    color: #111;
+    font-weight: 700;
+}
+sub{
+    color: #555;
+    font-weight: 700;
+    opacity: 0.5;
+}
+.social-icons ul{
+    padding: 0;
+}
+.social-icons li{
+    list-style: none;
+    float: left;
+    padding: 40px 30px 40px 0;
+}
+hr{
+    clear: left;
+}
+main{
+    max-width: 864px;
+    margin: auto;
+}
+p{
+    color: #555;
+    font-size: 27px;
+}
+figure{
+    margin-left: 0;
+    padding-left: 0;
+}
+a{
+    text-decoration: none;
+    color: #fd8a24;
+    font-weight: bold;
+}
+.cta{
+    color: #555;
+    font-size: 27px;
+    margin: 30px 0;
+}
+.tituloConteudo{
+    font-size: 35px;
+}
+footer{
+    background-color: #333;
+    height: 80px;
+}
